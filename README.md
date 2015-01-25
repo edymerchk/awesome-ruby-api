@@ -16,9 +16,16 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [grape-swagger-rails](https://github.com/BrandyMint/grape-swagger-rails) - Integration swagger to grape in rails
 * [swagger-blocks](https://github.com/fotinakis/swagger-blocks) - Define and serve live-updating Swagger JSON for Ruby apps.
 * [swagger-docs](https://github.com/richhollis/swagger-docs) - Define and serve live-updating Swagger JSON for Ruby apps.
+* [Slate](https://github.com/tripit/slate) - Slate helps you create beautiful API documentation.
 
 
 ## Frameworks
 
 * [Grape](http://intridea.github.io/grape) - An opinionated micro-framework for creating REST-like APIs in Ruby.
 * [Rails::API](https://github.com/rails-api/rails-api) - Rails for API only applications.
+
+
+## Versions
+
+* [Version Cake](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
+* [versionist](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
