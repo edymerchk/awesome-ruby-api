@@ -34,3 +34,12 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 
 * [Version Cake](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
 * [versionist](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
+
+
+## Videos/Talks
+
+* [Building fast, testable and sane APIs with rails](https://www.youtube.com/watch?v=18JQRlUC2QA)
+* [How we got max speed for JSON processing in a Rails API app](https://www.youtube.com/watch?v=jPZ5nFrL0D0)
+* [Rapidly Mapping JSON/XML API Schemas in Ruby](https://www.youtube.com/watch?v=1K0Pt0o9F7w)
+* [Building Your API for Longevity](https://www.youtube.com/watch?v=8U7JoDfj3wM)
+* [Building REST API with grape](https://www.youtube.com/watch?v=lNXa-fjTroE)
