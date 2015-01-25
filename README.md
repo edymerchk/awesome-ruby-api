@@ -14,8 +14,8 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [Apipie](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
 * [grape-swagger](https://github.com/tim-vandecasteele/grape-swagger) - Add swagger compliant documentation to your Grape API.
 * [grape-swagger-rails](https://github.com/BrandyMint/grape-swagger-rails) - Integration swagger to grape in rails
-# [swagger-blocks](https://github.com/fotinakis/swagger-blocks) - Define and serve live-updating Swagger JSON for Ruby apps.
-# [swagger-docs](https://github.com/richhollis/swagger-docs) - Define and serve live-updating Swagger JSON for Ruby apps.
+* [swagger-blocks](https://github.com/fotinakis/swagger-blocks) - Define and serve live-updating Swagger JSON for Ruby apps.
+* [swagger-docs](https://github.com/richhollis/swagger-docs) - Define and serve live-updating Swagger JSON for Ruby apps.
 
 
 ## Frameworks
