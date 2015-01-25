@@ -25,6 +25,11 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [Rails::API](https://github.com/rails-api/rails-api) - Rails for API only applications.
 
 
+## Testing
+
+* [Airborne](https://github.com/brooklynDev/airborne) - RSpec driven API testing framework
+
+
 ## Versions
 
 * [Version Cake](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
