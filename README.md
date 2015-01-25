@@ -8,6 +8,9 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 
 ```[LIBRARY](LINK) - DESCRIPTION.```
 
+## Design Guides
+
+* [http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
 
 ## Documentation
 
@@ -28,6 +31,8 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 ## Testing
 
 * [Airborne](https://github.com/brooklynDev/airborne) - RSpec driven API testing framework
+* [api_taster](https://github.com/fredwu/api_taster) - A quick and easy way to visually test your Rails application's AP
+* [stubb](https://github.com/knuton/stubb) - Specify REST API stubs using your file system.
 
 
 ## Versions
