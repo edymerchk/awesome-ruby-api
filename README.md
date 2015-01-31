@@ -20,6 +20,7 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [swagger-blocks](https://github.com/fotinakis/swagger-blocks) - Define and serve live-updating Swagger JSON for Ruby apps.
 * [swagger-docs](https://github.com/richhollis/swagger-docs) - Define and serve live-updating Swagger JSON for Ruby apps.
 * [Slate](https://github.com/tripit/slate) - Slate helps you create beautiful API documentation.
+* [rspec_api_documentation](https://github.com/zipmark/rspec_api_documentation) - RSpec API Doc Generator
 
 
 ## Frameworks
