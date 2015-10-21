@@ -35,6 +35,15 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [stubb](https://github.com/knuton/stubb) - Specify REST API stubs using your file system.
 
 
+## Serialization
+
+* [ActiveModel::Serializer](https://github.com/rails-api/active_model_serializers) - ActiveModel::Serializer brings convention over configuration to your JSON generation.
+* [ROAR](https://github.com/apotonick/roar) - a framework for parsing and rendering REST documents.
+* [Jbuilder](https://github.com/rails/jbuilder) -  gives you a simple DSL for declaring JSON structures that beats massaging giant hash structures.
+* [RABL](https://github.com/nesquena/rabl) -  General ruby templating with json, bson, xml, plist and msgpack support
+* [acts_as_api](https://github.com/fabrik42/acts_as_api) -  makes creating XML/JSON responses in Rails easy and fun.
+
+
 ## Versions
 
 * [Version Cake](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
