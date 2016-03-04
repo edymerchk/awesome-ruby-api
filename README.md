@@ -44,6 +44,9 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [RABL](https://github.com/nesquena/rabl) -  General ruby templating with json, bson, xml, plist and msgpack support
 * [acts_as_api](https://github.com/fabrik42/acts_as_api) -  makes creating XML/JSON responses in Rails easy and fun.
 
+## Middleware
+
+* [Rack::Cors](https://github.com/cyu/rack-cors) - Rack::Cors provides support for Cross-Origin Resource Sharing (CORS) for Rack compatible web applications.
 
 ## Versions
 
@@ -60,3 +63,6 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [Building REST API with grape](https://www.youtube.com/watch?v=lNXa-fjTroE)
 * [Building a web API with Ruby on Rails.](https://www.youtube.com/watch?v=36M2BSA2LYk) 
 
+## Articles
+
+* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
