@@ -27,6 +27,10 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 
 * [Grape](http://intridea.github.io/grape) - An opinionated micro-framework for creating REST-like APIs in Ruby.
 * [Rails::API](https://github.com/rails-api/rails-api) - Rails for API only applications.
+* [Sinatra](http://sinatrarb.com) - A domain-specific language for quickly creating web applications in Ruby
+* [Hanami](http://hanamirb.org) - A modern web framework for Ruby
+* [Cuba](http://cuba.is) - A Ruby microframework for web development
+* [Volt](http://voltframework.com) - A framework for building data rich web apps
 
 
 ## Testing
