@@ -66,3 +66,6 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 ## Articles
 
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+* [Building a RESTful API in a Rails Application](https://www.airpair.com/ruby-on-rails/posts/building-a-restful-api-in-a-rails-application)
+* [Beginners guide to creating a REST API](http://www.andrewhavens.com/posts/20/beginners-guide-to-creating-a-rest-api)
+* [Creating a simple API with rails](https://www.codementor.io/ruby-on-rails/tutorial/creating-simple-api-with-rails)
