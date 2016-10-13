@@ -69,3 +69,4 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [Building a RESTful API in a Rails Application](https://www.airpair.com/ruby-on-rails/posts/building-a-restful-api-in-a-rails-application)
 * [Creating a Simple API with Rails](https://www.codementor.io/ruby-on-rails/tutorial/creating-simple-api-with-rails)
 * [Beginners guide to creating a REST API](http://www.andrewhavens.com/posts/20/beginners-guide-to-creating-a-rest-api)
+* [Producing Documentation for Your Rails API](https://blog.codeship.com/producing-documentation-for-your-rails-api/)
