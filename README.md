@@ -61,7 +61,7 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [Rapidly Mapping JSON/XML API Schemas in Ruby](https://www.youtube.com/watch?v=1K0Pt0o9F7w)
 * [Building Your API for Longevity](https://www.youtube.com/watch?v=8U7JoDfj3wM)
 * [Building REST API with grape](https://www.youtube.com/watch?v=lNXa-fjTroE)
-* [Building a web API with Ruby on Rails.](https://www.youtube.com/watch?v=36M2BSA2LYk) 
+* [Building a web API with Ruby on Rails.](https://www.youtube.com/watch?v=36M2BSA2LYk)
 
 ## Articles
 
@@ -69,3 +69,4 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [Building a RESTful API in a Rails Application](https://www.airpair.com/ruby-on-rails/posts/building-a-restful-api-in-a-rails-application)
 * [Creating a Simple API with Rails](https://www.codementor.io/ruby-on-rails/tutorial/creating-simple-api-with-rails)
 * [Beginners guide to creating a REST API](http://www.andrewhavens.com/posts/20/beginners-guide-to-creating-a-rest-api)
+* [How To Use API With Ruby](https://www.codecademy.com/courses/ruby-beginner-en-pEdhY/0/1?curriculum_id=5122d5f811fbdb5456005922)
