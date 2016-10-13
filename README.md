@@ -35,8 +35,8 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [Airborne](https://github.com/brooklynDev/airborne) - RSpec driven API testing framework
 * [api_taster](https://github.com/fredwu/api_taster) - A quick and easy way to visually test your Rails application's AP
 * [stubb](https://github.com/knuton/stubb) - Specify REST API stubs using your file system.
-* [lurker](https://github.com/razum2um/lurker)
-* [minitest-reporters](https://github.com/kern/minitest-reporters)
+* [lurker](https://github.com/razum2um/lurker) - Generates API schemas, validates code against them and creates a handy web interface for testing the API
+* [minitest-reporters](https://github.com/kern/minitest-reporters) - Extend Minitest through simple hooks
 
 
 ## Serialization
@@ -73,3 +73,4 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [Creating a Simple API with Rails](https://www.codementor.io/ruby-on-rails/tutorial/creating-simple-api-with-rails)
 * [Beginners guide to creating a REST API](http://www.andrewhavens.com/posts/20/beginners-guide-to-creating-a-rest-api)
 * [Producing Documentation for Your Rails API](https://blog.codeship.com/producing-documentation-for-your-rails-api/)
+* [Why Use Rails for JSON APIs?](http://edgeguides.rubyonrails.org/api_app.html#why-use-rails-for-json-apis-questionmark)
