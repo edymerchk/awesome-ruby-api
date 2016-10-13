@@ -20,6 +20,7 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [swagger-blocks](https://github.com/fotinakis/swagger-blocks) - Define and serve live-updating Swagger JSON for Ruby apps.
 * [swagger-docs](https://github.com/richhollis/swagger-docs) - Define and serve live-updating Swagger JSON for Ruby apps.
 * [Slate](https://github.com/tripit/slate) - Slate helps you create beautiful API documentation.
+* [rspec_api_documentation](https://github.com/zipmark/rspec_api_documentation) - RSpec API Doc Generator
 
 
 ## Frameworks
@@ -43,6 +44,9 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [RABL](https://github.com/nesquena/rabl) -  General ruby templating with json, bson, xml, plist and msgpack support
 * [acts_as_api](https://github.com/fabrik42/acts_as_api) -  makes creating XML/JSON responses in Rails easy and fun.
 
+## Middleware
+
+* [Rack::Cors](https://github.com/cyu/rack-cors) - Rack::Cors provides support for Cross-Origin Resource Sharing (CORS) for Rack compatible web applications.
 
 ## Versions
 
@@ -57,3 +61,11 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [Rapidly Mapping JSON/XML API Schemas in Ruby](https://www.youtube.com/watch?v=1K0Pt0o9F7w)
 * [Building Your API for Longevity](https://www.youtube.com/watch?v=8U7JoDfj3wM)
 * [Building REST API with grape](https://www.youtube.com/watch?v=lNXa-fjTroE)
+* [Building a web API with Ruby on Rails.](https://www.youtube.com/watch?v=36M2BSA2LYk) 
+
+## Articles
+
+* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+* [Building a RESTful API in a Rails Application](https://www.airpair.com/ruby-on-rails/posts/building-a-restful-api-in-a-rails-application)
+* [Beginners guide to creating a REST API](http://www.andrewhavens.com/posts/20/beginners-guide-to-creating-a-rest-api)
+* [Creating a simple API with rails](https://www.codementor.io/ruby-on-rails/tutorial/creating-simple-api-with-rails)
