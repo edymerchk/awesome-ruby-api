@@ -20,7 +20,8 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [swagger-blocks](https://github.com/fotinakis/swagger-blocks) - Define and serve live-updating Swagger JSON for Ruby apps.
 * [swagger-docs](https://github.com/richhollis/swagger-docs) - Define and serve live-updating Swagger JSON for Ruby apps.
 * [Slate](https://github.com/tripit/slate) - Slate helps you create beautiful API documentation.
-* [rspec_api_documentation](https://github.com/zipmark/rspec_api_documentation) - RSpec API Doc Generator
+* [rspec_api_documentation]
+(https://github.com/zipmark/rspec_api_documentation) - RSpec API Doc Generator
 
 
 ## Frameworks
@@ -34,6 +35,8 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [Airborne](https://github.com/brooklynDev/airborne) - RSpec driven API testing framework
 * [api_taster](https://github.com/fredwu/api_taster) - A quick and easy way to visually test your Rails application's AP
 * [stubb](https://github.com/knuton/stubb) - Specify REST API stubs using your file system.
+* [lurker](https://github.com/razum2um/lurker)
+* [minitest-reporters](https://github.com/kern/minitest-reporters)
 
 
 ## Serialization
