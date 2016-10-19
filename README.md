@@ -28,6 +28,9 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 
 * [Grape](http://intridea.github.io/grape) - An opinionated micro-framework for creating REST-like APIs in Ruby.
 * [Rails::API](https://github.com/rails-api/rails-api) - Rails for API only applications.
+* [Sinatra](http://www.sinatrarb.com) - A small DSL for quickly creating web applications in Ruby 
+* [Padrino](http://padrinorb.com) -  Full-stack framework for standing up websites that is built on top of Sinatra.
+* [Nitro](https://rubygems.org/gems/nitro) - Template based web application framework
 
 
 ## Testing
