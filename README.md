@@ -14,6 +14,7 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 
 ## Documentation
 
+* [Aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer.
 * [Apipie](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
 * [grape-swagger](https://github.com/tim-vandecasteele/grape-swagger) - Add swagger compliant documentation to your Grape API.
 * [grape-swagger-rails](https://github.com/BrandyMint/grape-swagger-rails) - Integration swagger to grape in rails
@@ -64,7 +65,7 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [Rapidly Mapping JSON/XML API Schemas in Ruby](https://www.youtube.com/watch?v=1K0Pt0o9F7w)
 * [Building Your API for Longevity](https://www.youtube.com/watch?v=8U7JoDfj3wM)
 * [Building REST API with grape](https://www.youtube.com/watch?v=lNXa-fjTroE)
-* [Building a web API with Ruby on Rails.](https://www.youtube.com/watch?v=36M2BSA2LYk) 
+* [Building a web API with Ruby on Rails.](https://www.youtube.com/watch?v=36M2BSA2LYk)
 
 ## Articles
 
