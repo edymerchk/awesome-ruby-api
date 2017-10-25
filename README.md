@@ -28,7 +28,7 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 
 * [Grape](http://intridea.github.io/grape) - An opinionated micro-framework for creating REST-like APIs in Ruby.
 * [Rails::API](https://github.com/rails-api/rails-api) - Rails for API only applications.
-
+* [GraphQL](http://graphql-ruby.org) - GraphQL is a query language for your API. graphql-ruby is ruby implementation of GraphQL.
 
 ## Testing
 
@@ -64,7 +64,7 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 * [Rapidly Mapping JSON/XML API Schemas in Ruby](https://www.youtube.com/watch?v=1K0Pt0o9F7w)
 * [Building Your API for Longevity](https://www.youtube.com/watch?v=8U7JoDfj3wM)
 * [Building REST API with grape](https://www.youtube.com/watch?v=lNXa-fjTroE)
-* [Building a web API with Ruby on Rails.](https://www.youtube.com/watch?v=36M2BSA2LYk) 
+* [Building a web API with Ruby on Rails.](https://www.youtube.com/watch?v=36M2BSA2LYk)
 
 ## Articles
 
