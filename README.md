@@ -59,12 +59,13 @@ Sharing, suggestions and contributions are always welcome! just use the followin
 
 ## Videos/Talks
 
-* [Building fast, testable and sane APIs with rails](https://www.youtube.com/watch?v=18JQRlUC2QA)
-* [How we got max speed for JSON processing in a Rails API app](https://www.youtube.com/watch?v=jPZ5nFrL0D0)
-* [Rapidly Mapping JSON/XML API Schemas in Ruby](https://www.youtube.com/watch?v=1K0Pt0o9F7w)
-* [Building Your API for Longevity](https://www.youtube.com/watch?v=8U7JoDfj3wM)
-* [Building REST API with grape](https://www.youtube.com/watch?v=lNXa-fjTroE)
+* [Building fast, testable and sane APIs with rails.](https://www.youtube.com/watch?v=18JQRlUC2QA)
+* [How we got max speed for JSON processing in a Rails API app.](https://www.youtube.com/watch?v=jPZ5nFrL0D0)
+* [Rapidly Mapping JSON/XML API Schemas in Ruby.](https://www.youtube.com/watch?v=1K0Pt0o9F7w)
+* [Building Your API for Longevity/](https://www.youtube.com/watch?v=8U7JoDfj3wM)
+* [Building REST API with grape.](https://www.youtube.com/watch?v=lNXa-fjTroE)
 * [Building a web API with Ruby on Rails.](https://www.youtube.com/watch?v=36M2BSA2LYk)
+* [Rails APIs: The Next Generation.](https://www.youtube.com/watch?v=iTbTz8_ztIM)
 
 ## Articles
 
